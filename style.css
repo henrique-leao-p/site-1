@@ -26,13 +26,13 @@ img.main-img {
 }
 
 div.main-container {
-    background-color: pink;
+    background-color: black;
     text-align: center;
     border-radius: 10px;
     display: block;
     margin: 5px auto;
     width: auto;
-    max-width: 800px;
+    max-width: 500px;
     min-width: 400px;
 }
 
